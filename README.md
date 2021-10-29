@@ -9,6 +9,7 @@ Most of this script just creates three lists:
   - main input list (white list)
   - a list of pattern exclusions (black list)
   - a list of literal file paths exclusions (black list)
+
 and then feeds them to the archiving program "tar".
 
 Due to the nature of the tar program, empty directories are not archived. This

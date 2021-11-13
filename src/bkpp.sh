@@ -1,6 +1,6 @@
 #!/bin/sh
 USAGE='Usage: %s [-h|--help] [-q] [-k]'
-HELP=' Web site: https://github.com/meerkut-C/bkpp---backup-program
+HELP=' Web site: https://github.com/meerkut-C/bkpp
 
 OPTIONS
 =======
